@@ -1,3 +1,5 @@
+[bilg müh özel konular dönem içi proj.pdf](https://github.com/user-attachments/files/17968549/bilg.muh.ozel.konular.donem.ici.proj.pdf)
+
 # FilterDesignerPro
 
 FilterDesignerPro, Butterworth, Chebyshev ve Ters Chebyshev (Chebyshev-II) yöntemleriyle filtre tasarımı yapmayı sağlayan bir MATLAB projesidir. Proje, düşük geçiren (LPF), yüksek geçiren (HPF) ve bant geçiren (BPF) filtreler için normalize ve denormalize işlemleri gerçekleştirir. Ayrıca, filtrelerin genlik-frekans grafikleri görselleştirilir.
